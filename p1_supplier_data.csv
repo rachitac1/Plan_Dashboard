@@ -1,0 +1,7 @@
+sku_id,supplier_id,supplier_lead_time_weeks,on_time_delivery_rate,min_order_qty,weekly_supply_limit
+FB-101,S3,3,0.9,200,4879
+FB-102,S1,1,0.92,300,3661
+FB-103,S2,1,0.91,200,3848
+FB-104,S1,3,0.9,500,5523
+FB-105,S1,3,0.91,200,4792
+FB-106,S2,2,0.9,500,3951

@@ -1,0 +1,7 @@
+sku_id,sku_name,category,uom,pack_size,holding_cost_per_unit_per_week,stockout_penalty_per_unit,production_cost_per_unit,shelf_life_weeks
+FB-101,Masala Chips,Snacks,units,1,0.8,8,5.2,12
+FB-102,Choco Cookies,Snacks,units,1,0.7,7,4.8,24
+FB-103,Trail Mix,Snacks,units,1,0.9,10,6.0,24
+FB-104,Energy Bar,Snacks,units,1,0.85,9,5.6,24
+FB-105,Orange Juice,Beverage,units,1,1.1,11,6.2,12
+FB-106,Greek Yogurt,Dairy,units,1,1.3,12,6.8,6
